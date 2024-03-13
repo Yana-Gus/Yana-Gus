@@ -7,9 +7,6 @@
 
 <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46322/tools_Java_color.png" height="50"/> <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46313/tools_GIT_color.png" height="50"/> <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46280/tools_SQL_color.png" height="50"/> <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46323/tools_IntelliJ_IDEA_color.png" height="50"/>  <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46324/tools_Postman_color.png" height="50"/> <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46325/tools_Report_Portal_color.png" height="50"/> <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46300/tools_GitHub_color.png" height="50"/> <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46326/tools_Selenium_color.png" height="50"/> <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46327/tools_JUnit_color.png" height="50"/> <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46306/tools_Docker_color.png" height="50"/> <img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46328/tools_JIRA_color.png" height="50"/> <img src="https://iret.media/wp-content/uploads/2017/07/eyecatch-jmeter-3.png" height="50"/>
 
-
-**Java** **Jira**  **HTML**  **CSS**  **DevTools**  **Git**  **SQL**  **POSTGRES**  **Postman**    **Docker**
-
 ### Мои проекты
 #### Автоматизированное тестирование
 1. [Дипломный проект по профессии «Тестировщик»](https://github.com/Yana-Gus/QA-DIPLOMA_BuyTour)
